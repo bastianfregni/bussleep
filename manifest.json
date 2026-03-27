@@ -9,14 +9,15 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/3DFF8F/0A0F0D?text=BS",
+      "src": "https://bastianfregni.github.io/bussleep/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://via.placeholder.com/512x512/3DFF8F/0A0F0D?text=BS",
+      "src": "https://bastianfregni.github.io/bussleep/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
